@@ -1,0 +1,21 @@
+{
+  "name": "hyper-loved",
+  "version": "0.0.0",
+  "description": "Love never ends",
+  "license": "MIT",
+  "repository": "DanielPintilei/hyper-loved",
+  "author": {
+    "name": "Daniel Pintilei",
+    "url": "danielpintilei.cf"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "terminal",
+    "term",
+    "theme"
+  ]
+}
